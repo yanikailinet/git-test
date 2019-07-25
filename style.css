@@ -1,0 +1,48 @@
+.main {
+    width: 90%;
+    height: 80%;
+    min-height: 500px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+
+.table {
+    width: 75%;
+}
+
+td {
+    width: 33%;
+    height: 50px;
+    text-align: center;
+    border: 1px solid #808080;
+}
+
+.table-parent {
+    width: 90%;
+}
+
+.table-child {
+    width: 80%;
+    align-content: center;
+    margin-left: 10%;
+    padding: 5%;
+}
+
+.h-200 {
+    height: 200px;
+}
+
+.w-3 {
+    width: 60%;
+}
+
+.w-4 {
+    width: 28%;
+}
+   
+
+
+  
